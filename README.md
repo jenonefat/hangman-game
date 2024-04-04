@@ -12,9 +12,9 @@
   More rules are provided in the docstrings of the **hangman_with_hints** function. 
 
   The MIT instructors provided: 
-    - code for the first 2 functions in the hangman.py file (def load_words() and def choose_word(wordlist)) 
-    - **words.txt** file 
-    - names and docstrings for all functions 
+  - code for the first 2 functions in the hangman.py file (def load_words() and def choose_word(wordlist)) 
+  - **words.txt** file 
+  - names and docstrings for all functions 
 
   Please Note: I made several modifications to the provided docstrings and chose not to include certain aspects of the pset assignment in this repository,
   such as the *'hangman'* function, as I felt it was an unncessary redundancy (it's essentially the same game as the *'hangman_with_hints'* function, but without 
